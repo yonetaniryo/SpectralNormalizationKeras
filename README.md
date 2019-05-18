@@ -1,5 +1,9 @@
 Spectral Normalization for Keras
 ================================
+
+**Note**: This is a forked version of `SpectralNormalizationKeras` originally developed by @IShengFang at https://github.com/IShengFang/SpectralNormalizationKeras, which just removed image directories and ipynb files to make it easier to clone.
+
+
 The **simple** Keras implementation of ICLR 2018 paper, Spectral Normalization for Generative Adversarial Networks.
 [[openreview]](https://openreview.net/forum?id=B1QRgziT-)[[arixiv]](https://arxiv.org/abs/1802.05957)[[original code(chainer)]](https://github.com/pfnet-research/sngan_projection)
 
